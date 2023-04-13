@@ -1,5 +1,11 @@
 
 /* Your CSS Code here. */
+.container{
+	border: 6px double black;
+}
+li{
+	padding-left: 60px;
+}
 #html{
 	background-color: black;
 	color: white;
