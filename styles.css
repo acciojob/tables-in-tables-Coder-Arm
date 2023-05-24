@@ -3,6 +3,9 @@
 .container,.container td,#nt2,#nt2 th , #nt2 td, #nt1,#nt1 th , #nt1 td, #nt3, #nt3 th, #nt3 td ,#nt4,#nt4 th{
 	border: 2px solid black;
 }
+#nt1,#nt2,#nt3,#nt4{
+	width: 100%;
+}
 #nt2 tr, #nt1 tr, #nt3 tr, #nt4 tr{
 	text-align: center;
 }
